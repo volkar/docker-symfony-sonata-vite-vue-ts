@@ -1,6 +1,4 @@
-# docker-symfony-sonata-vite-vue-ts
-
-Docker configuration with PHP 8.1+, NGINX 1.20+, PostgreSQL 14.2+ and Symfony 6.0 for SPA (Single Page Application) development with Vue/Vite, Pinia and SonataAdmin.
+## Docker configuration with PHP 8.1+, NGINX 1.20+, PostgreSQL 14.2+ and Symfony 6.0 for SPA (Single Page Application) development with Vue/Vite, Pinia and SonataAdmin.
 
 ![SPA preview](https://github.com/volkar/docker-symfony-sonata-vite-vue-ts/blob/main/preview.jpg?raw=true)
 
@@ -42,7 +40,7 @@ Docker and Docker Compose can be installed with [Docker Desktop](https://www.doc
 1. Clone the project:
 
 ```
-git clone https://github.com/volkar/docker-symfony-vite-vue-ts.git
+git clone https://github.com/volkar/docker-symfony-sonata-vite-vue-ts.git
 ```
 
 2. Go to the project's folder
